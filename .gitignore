@@ -44,3 +44,8 @@ LICENSE
 # Ignore macOS DS_Store file
 .DS_Store
 
+learn-terraform-plan/tfplan
+learn-terraform-plan/tfplan-destroy
+learn-terraform-plan/tfplan-input-var
+learn-terraform-plan/tfplan-input-var.json
+learn-terraform-plan/tfplan.json
